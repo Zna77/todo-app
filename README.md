@@ -40,13 +40,18 @@ Welcome to the documentation of the Todo-list app! This document provides inform
 
 2. Install dependencies:
 
-`npm install`
+   ````bash
+   npm install```
+   ````
 
 ## Usage
 
 1. Run the app locally:
 
-`npm start`
+   ````bash
+   npm start```
+
+   ````
 
 2. Access the app in your web browser at http://localhost:3000.
 
