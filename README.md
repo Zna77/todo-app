@@ -68,9 +68,9 @@ Welcome to the documentation of the Todo-list app! This document provides inform
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
-2. Create a new branch for your feature/fix: git checkout -b feature-name
+2. Create a new branch for your feature/fix: `git checkout -b feature-name`
 3. Make your changes and commit them.
-4. Push to your forked repository: git push origin feature-name
+4. Push to your forked repository: `git push origin feature-name`
 5. Create a pull request to the main repository's main branch.
 
 ## License
