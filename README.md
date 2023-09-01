@@ -41,7 +41,8 @@ Welcome to the documentation of the Todo-list app! This document provides inform
 2. Install dependencies:
 
    ````bash
-   npm install```
+   npm install
+   ```
    ````
 
 ## Usage
@@ -49,7 +50,8 @@ Welcome to the documentation of the Todo-list app! This document provides inform
 1. Run the app locally:
 
    ````bash
-   npm start```
+   npm start
+   ```
 
    ````
 
